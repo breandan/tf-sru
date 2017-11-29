@@ -3,7 +3,7 @@
 ## Progress so far
 
 - [x] Setup GCE instance for training
-  - [ ] Obtain GCP approval for additional GPUs
+  - [X] Obtain GCP approval for additional GPUs
 - [X] Reproduce author's SRU implementation
 - [ ] Reproduce classification model
 - [ ] Reproduce question answering model
